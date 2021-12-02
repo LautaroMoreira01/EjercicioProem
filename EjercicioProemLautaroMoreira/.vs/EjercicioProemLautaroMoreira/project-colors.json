@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6786bbcb-d2ab-49ba-af52-f914bc87c984": {
+      "ProjectGuid": "6786bbcb-d2ab-49ba-af52-f914bc87c984",
+      "DisplayName": "Entidades",
+      "ColorIndex": 0
+    },
+    "35493319-9097-4d6e-ab4b-c994b2a484ab": {
+      "ProjectGuid": "35493319-9097-4d6e-ab4b-c994b2a484ab",
+      "DisplayName": "Vista",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
