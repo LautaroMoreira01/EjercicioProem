@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmAgregarModificarDoctor));
             this.lblEspecialidad = new System.Windows.Forms.Label();
             this.cbEspecialidad = new System.Windows.Forms.ComboBox();
             this.btnCancelar = new System.Windows.Forms.Button();
@@ -179,6 +180,9 @@
             this.Controls.Add(this.tbNombre);
             this.Controls.Add(this.lblNombre);
             this.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximumSize = new System.Drawing.Size(394, 611);
+            this.MinimumSize = new System.Drawing.Size(394, 611);
             this.Name = "FrmAgregarModificarDoctor";
             this.Text = "Doctor";
             this.Load += new System.EventHandler(this.FrmAgregarModificarDoctor_Load);

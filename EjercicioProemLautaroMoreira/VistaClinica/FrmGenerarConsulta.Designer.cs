@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmGenerarConsulta));
             this.lblPaciente = new System.Windows.Forms.Label();
             this.tbInformacionPaciente = new System.Windows.Forms.TextBox();
             this.lblDoctoresDisponibles = new System.Windows.Forms.Label();
@@ -123,6 +124,7 @@
             this.Controls.Add(this.lblDoctoresDisponibles);
             this.Controls.Add(this.cbDoctoresDisponibles);
             this.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximumSize = new System.Drawing.Size(517, 292);
             this.MinimumSize = new System.Drawing.Size(517, 292);
             this.Name = "FrmGenerarConsulta";

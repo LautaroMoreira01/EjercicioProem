@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmAgregarModificarPaciente));
             this.lblNombre = new System.Windows.Forms.Label();
             this.tbNombre = new System.Windows.Forms.TextBox();
             this.tbApellido = new System.Windows.Forms.TextBox();
@@ -236,6 +237,9 @@
             this.Controls.Add(this.lblApellido);
             this.Controls.Add(this.tbNombre);
             this.Controls.Add(this.lblNombre);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximumSize = new System.Drawing.Size(374, 622);
+            this.MinimumSize = new System.Drawing.Size(374, 622);
             this.Name = "FrmAgregarModificarPaciente";
             this.Text = "Paciente";
             this.Load += new System.EventHandler(this.FrmAgregarPaciente_Load);
