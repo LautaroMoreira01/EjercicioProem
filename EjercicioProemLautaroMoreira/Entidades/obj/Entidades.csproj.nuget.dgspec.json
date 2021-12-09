@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\EjercicioProemLautaroMoreira\\Entidades\\Entidades.csproj": {}
+    "D:\\Desktop\\EjercicioProem\\EjercicioProemLautaroMoreira\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\EjercicioProemLautaroMoreira\\Entidades\\Entidades.csproj": {
+    "D:\\Desktop\\EjercicioProem\\EjercicioProemLautaroMoreira\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\EjercicioProemLautaroMoreira\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\Desktop\\EjercicioProem\\EjercicioProemLautaroMoreira\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "D:\\Desktop\\EjercicioProemLautaroMoreira\\Entidades\\Entidades.csproj",
+        "projectPath": "D:\\Desktop\\EjercicioProem\\EjercicioProemLautaroMoreira\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\lauty\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\EjercicioProemLautaroMoreira\\Entidades\\obj\\",
+        "outputPath": "D:\\Desktop\\EjercicioProem\\EjercicioProemLautaroMoreira\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
